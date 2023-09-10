@@ -3,7 +3,7 @@
 |   单词   |     英标      |             例句              |                             解释                             |
 | :------: | :-----------: | :---------------------------: | :----------------------------------------------------------: |
 | bakelite | /ˈbeɪkəlaɪt/  |                               | 胶木(儿童积木的那种塑料)<img src=".\image\Snipaste_2023-09-10_19-48-21.png" style="zoom:25%;" /> |
-|  surge   |   /sɜːrdʒ/    |     storm surges (风暴潮)     | <img src="C:\Users\Ethan\Desktop\英语\image\Snipaste_2023-09-10_20-20-08.png" style="zoom:25%;" /><br/>激增 n. |
+|  surge   |   /sɜːrdʒ/    |     storm surges (风暴潮)     | <img src=".\image\Snipaste_2023-09-10_20-20-08.png" style="zoom:25%;" /><br/>激增 n. |
 | diagnose | /ˌdaɪəɡˈnoʊs/ | diagram表示图表。通过图表诊断 |                           诊断病情                           |
 |          |               |                               |                                                              |
 |          |               |                               |                                                              |
