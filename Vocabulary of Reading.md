@@ -63,24 +63,24 @@
 | 53   |         plausible          |    /ˈplɔːzəb(ə)l/    |                                                              |                adj. 似乎是真的，貌似有理的；                 |
 | 54   |       physiological        | /ˌfɪziəˈlɑːdʒɪk(ə)l/ |               physiological reactions 生理反应               |                         adj. 生理的                          |
 | 55   |          arousal           |     /əˈraʊz(ə)l/     |                                                              |                         n清醒，醒来                          |
-| 56   |                            |                      |                                                              |                                                              |
-| 57   |                            |                      |                                                              |                                                              |
-| 58   |                            |                      |                                                              |                                                              |
-| 59   |                            |                      |                                                              |                                                              |
-| 60   |                            |                      |                                                              |                                                              |
-| 61   |                            |                      |                                                              |                                                              |
-| 62   |                            |                      |                                                              |                                                              |
-| 63   |                            |                      |                                                              |                                                              |
-| 64   |                            |                      |                                                              |                                                              |
-| 65   |                            |                      |                                                              |                                                              |
-| 66   |                            |                      |                                                              |                                                              |
-| 67   |                            |                      |                                                              |                                                              |
-| 68   |                            |                      |                                                              |                                                              |
-| 69   |                            |                      |                                                              |                                                              |
-| 70   |                            |                      |                                                              |                                                              |
-| 71   |                            |                      |                                                              |                                                              |
-| 72   |                            |                      |                                                              |                                                              |
-| 73   |                            |                      |                                                              |                                                              |
+| 56   |         interfere          |     /ˌɪntərˈfɪr/     |                        interfere with                        |                       v. 干涉，干扰；                        |
+| 57   |           reveal           |      /rɪˈviːl/       |                                                              |                       v. 揭示，透露；                        |
+| 58   |        predecessor         |    ·/ˈpredəsesər/    |                                                              |                           n. 前辈                            |
+| 59   |        correlation         |  /ˌkɔːrəˈleɪʃ(ə)n/   |                                                              |                     n. 相互关系，关联；                      |
+| 60   |         expectancy         |    /ɪkˈspektənsi/    |              Life expectancy 预期寿命\平均寿命               |                        n. 期待，期望                         |
+| 61   |           strike           |       /straɪk/       |                     adj.惊人的 striking                      |                      v. 撞击，疾病侵袭                       |
+| 62   |          massive           |       /ˈmæsɪv/       |                                                              |                            大量的                            |
+| 63   |          reliance          |     /rɪˈlaɪəns/      |                    self-reliance 自力更生                    |                       n. 依靠，信任；                        |
+| 64   |          drawback          |      /ˈdrɔːbæk/      |                                                              |                       n.缺点，不利条件                       |
+| 65   |         Virtually          |    /ˈvɜːrtʃuəli/     |                                                              |                     adv. 事实上，几乎；                      |
+| 66   |          spacious          |      /ˈspeɪʃəs/      |                                                              |                   adj. 宽敞的；无边无际的                    |
+| 67   |         elaborate          |     /ɪˈlæbərət/      |                                                              |                   v. 详细说明，详尽阐述；                    |
+| 68   |        Only rarely         |                      |               He only rarely goes to the gym.                |                     极少，几乎不会发生。                     |
+| 69   |          observe           |      /əbˈzɜːrv/      |                                                              |                     v. 注意到，观察到；                      |
+| 70   |           foster           |      /ˈfɑːstər/      |                                                              |                       v. 促进，培养；                        |
+| 71   |          scarcely          |      /ˈskersli/      |                                                              |                     adv. 勉强，几乎不；                      |
+| 72   |          adequate          |      /ˈædɪkwət/      |                                                              |                        adj. 足够的，                         |
+| 73   |         indication         |   /ˌɪndɪˈkeɪʃ(ə)n/   |                                                              |                          n. 迹象；                           |
 | 74   |                            |                      |                                                              |                                                              |
 | 75   |                            |                      |                                                              |                                                              |
 | 76   |                            |                      |                                                              |                                                              |
