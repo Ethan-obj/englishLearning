@@ -81,17 +81,17 @@
 | 71   |          scarcely          |      /ˈskersli/      |                                                              |                     adv. 勉强，几乎不；                      |
 | 72   |          adequate          |      /ˈædɪkwət/      |                                                              |                        adj. 足够的，                         |
 | 73   |         indication         |   /ˌɪndɪˈkeɪʃ(ə)n/   |                                                              |                          n. 迹象；                           |
-| 74   |                            |                      |                                                              |                                                              |
-| 75   |                            |                      |                                                              |                                                              |
-| 76   |                            |                      |                                                              |                                                              |
-| 77   |                            |                      |                                                              |                                                              |
-| 78   |                            |                      |                                                              |                                                              |
-| 79   |                            |                      |                                                              |                                                              |
-| 80   |                            |                      |                                                              |                                                              |
-| 81   |                            |                      |                                                              |                                                              |
-| 82   |                            |                      |                                                              |                                                              |
-| 83   |                            |                      |                                                              |                                                              |
-| 84   |                            |                      |                                                              |                                                              |
+| 74   |          vaccine           |      /ˈvæksiːn/      |                                                              |                      n. 疫苗；adj疫苗的                      |
+| 75   |          malaria           |     /məˈleəriə/      |                                                              |                           n. 疟疾                            |
+| 76   |          devotion          |    /dɪˈvoʊʃ(ə)n/     |                                                              |                        n. 挚爱，忠诚                         |
+| 77   |          perceive          |      /pəˈsiːv/       |                                                              |                      vt. 察觉，注意到；                      |
+| 78   |           viable           |     /ˈvaɪəb(ə)l/     |                                                              |                         adj.可行的；                         |
+| 79   |            bark            |        /bɑːk/        |                                                              |                      n. 狗叫声，树皮；                       |
+| 80   |          readily           |      /ˈredɪli/       |              readily available foods 现成的食物              |                  adv. 轻而易举地，迅速地；                   |
+| 81   |        incorporate         |    /ɪnˈkɔːpəreɪt/    |                                                              |                    v. 合并；混合（成分）                     |
+| 82   |         objection          |    /əbˈdʒekʃ(ə)n/    |                                                              |                          n. 反对，                           |
+| 83   |            coal            |        /kəʊl/        |                                                              |                             n.煤                             |
+| 84   |          microbe           |     /ˈmaɪkrəʊb/      |                                                              |                          n. 微生物                           |
 | 85   |                            |                      |                                                              |                                                              |
 | 86   |                            |                      |                                                              |                                                              |
 | 87   |                            |                      |                                                              |                                                              |
